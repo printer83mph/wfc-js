@@ -1,0 +1,25 @@
+{
+  "name": "wfc-js",
+  "version": "0.1.0",
+  "description": "Wave Function Collapse algorithm implemented in TS",
+  "main": "index.js",
+  "repository": "git@github.com:printer83mph/wfc-js.git",
+  "author": "printer83mph <printer.83mph@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "19.0.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "esinit": "eslint --init"
+  }
+}
