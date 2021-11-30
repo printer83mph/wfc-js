@@ -2,7 +2,7 @@
   "name": "wfc-js",
   "version": "0.1.0",
   "description": "Wave Function Collapse algorithm implemented in TS",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "git@github.com:printer83mph/wfc-js.git",
   "author": "printer83mph <printer.83mph@gmail.com>",
   "license": "MIT",
